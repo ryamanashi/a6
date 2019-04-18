@@ -1,0 +1,170 @@
+html {
+height: 100%;
+
+
+}
+
+body {
+text-align: center;
+height: 100%;
+
+}
+
+header {
+
+margin-top: 50px;	
+background-color: lightblue;
+
+}
+
+	.main {
+
+      float: left;
+
+      width: 100%;
+
+      margin: 0 auto;
+
+      margin-bottom: 350px;
+
+      overflow: hidden;
+    }
+
+
+    h1 {
+    margin-top: 100px;
+    align-content: center
+     font-size: 80px;
+
+     font-weight: 100;
+    }
+
+     .wrapper {
+
+    	height: auto 
+
+    	height: 100%;
+
+    	margin: 0 auto; 
+
+    	overflow: hidden;
+
+    }
+
+	.page-container {
+
+      float: left;
+
+      width: 100%;
+
+      margin: 0 auto 300px;
+
+      position: relative;
+
+    }
+   
+   .tps-section {
+
+      width: 100% !important;
+
+      max-width: 1000px;
+
+      margin: 0 auto;
+
+      height: 500px;
+
+    }
+
+    
+
+    .tps-section .tps-wrapper {
+
+      border-radius: 5px;
+
+    }
+
+    .tps-section .tps-wrapper h1 {
+
+      position: relative;
+
+      height: 100%;
+
+      position: absolute;
+
+    }
+
+    .tps-section .tps-wrapper h1 a{
+
+      color: white;
+
+      position: absolute;
+
+      background: rgba(0,0,0,0.25);
+
+      width: 100%;
+
+      height: 100%;
+
+      top: 0;
+
+      padding-top: 225px;
+
+      box-sizing: border-box;
+
+      -webkit-box-sizing: border-box;
+
+      -moz-box-sizing: border-box;
+
+      left: 0;
+
+      font-weight: bold;
+
+      text-transform: uppercase;
+
+      letter-spacing: 4px;
+
+      font-size: 20px;
+
+      font-size: 14px;
+
+      line-height: 190%;
+
+    }
+
+    
+
+    .tps-section .tps-wrapper h1 a small{
+
+      text-transform: none;
+
+      font-style: italic;
+
+      font-weight: 400;
+
+      font-family: noto serif;
+
+      letter-spacing: 1px;
+
+      font-size: 14px;
+
+    }
+
+    .page1{
+
+    background-image: url(FoodWaste1.jpg);
+    }
+
+    .page2{
+
+    background-image: url(FoodWaste5.jpg)
+    }
+    
+    .page3 {
+    background-image: url(FoodWaste3.jpg);
+    }
+
+    .page4 {
+
+    background-image: url(FoodWaste4.jpg);
+    
+    }
